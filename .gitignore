@@ -7,3 +7,4 @@ convert_to_html.*
 */*checkpoint*
 
 .venv
+.pdm-python
